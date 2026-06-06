@@ -1,2 +1,10 @@
-# Google App Engine generated folder
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Generated
 appengine-generated/
